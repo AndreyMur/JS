@@ -11,8 +11,6 @@ html{
 
 .calculator-content{
     display: block;
-    border: 2px solid #184bcc;
-    box-shadow:0 0 10px black;
 }
 
 .calculator-title{
